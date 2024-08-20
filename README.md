@@ -4,6 +4,7 @@
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
+|13414. 수강신청|[링크](./%EB%B0%B1%EC%A4%80/Silver/13414.%E2%80%85%EC%88%98%EA%B0%95%EC%8B%A0%EC%B2%AD/README.md)|
 |1620. 나는야 포켓몬 마스터 이다솜|[링크](./%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C.java)|
 ## 📚 프로그래머스
 ### 🚀 0
