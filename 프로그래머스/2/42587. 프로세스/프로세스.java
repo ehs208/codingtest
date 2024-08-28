@@ -5,7 +5,6 @@ class Solution {
         int answer = 0;
         int count = 0;
         int numcount = priorities.length - 1;
-        int check = priorities[location];
         
         Queue<Integer> queue = new LinkedList<>();
         
