@@ -25,10 +25,10 @@ class Solution {
             answer[0] = 0;
             answer[1] = 0;
         }
-        else
+        else {
             answer[0] = maxpq.peek() != null ? maxpq.peek() : 0;
             answer[1] = minpq.peek() != null ? minpq.peek() : 0;
-        
+        }
         return answer;
     }
 }
